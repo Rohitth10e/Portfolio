@@ -346,11 +346,12 @@ a{
     
     .header{
         padding: 10px 10%;
-        /* width: 100%; */
-        /* display: flex; */
+        width: 100%;
+        display: flex;
         align-items: center;
         gap: 70px;
-        /* justify-content: space-between; */
+        justify-content: space-between;
+        align-items: center;
         background-color: #d6d3dd;
         font-family: Montserrat;
     }
