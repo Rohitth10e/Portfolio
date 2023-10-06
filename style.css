@@ -376,7 +376,7 @@ a{
     
     /* Custom Vertical Scrollbar */
     #nav::-webkit-scrollbar {
-        width: 5px;
+        width: 10px;
     }
       
     #nav::-webkit-scrollbar-track {
